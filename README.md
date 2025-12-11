@@ -36,10 +36,6 @@ cd products-service
 mvn spring-boot:run
 ```
 
-## Screenshots
-
-Place application screenshots in the `screenshots/` directory.
-
 ### Products Page Screenshot
 <img width="1511" height="858" alt="Screenshot 2025-12-11 at 12 12 36" src="https://github.com/user-attachments/assets/141c0356-1fac-480c-b7d5-a776ef449872" />
 
